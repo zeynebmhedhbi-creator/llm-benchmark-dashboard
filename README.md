@@ -1,6 +1,6 @@
 # 📊 LLM Inference Benchmark Dashboard
 
-Dashboard de comparaison de moteurs d'inférence LLM — développé dans le cadre du PFE
+Dashboard de comparaison de moteurs d'inférence LLM — développé dans le cadre du STAGE
 2025–2026 chez **Talan Tunisie**, en complément du projet **Adaptive LLM Router**.
 
 🔗 **Démo en direct :** https://splendid-mochi-a31921.netlify.app
@@ -167,4 +167,4 @@ Déployé actuellement sur Netlify (glisser-déposer du dossier, ou lié à ce d
 
 ## 👥 Auteurs
 
-Zeyneb Mhedhbi · Maram Laouini — PFE 2025–2026, Talan Tunisie
+Zeyneb Mhedhbi · Maram Laouini — STAGE 2025–2026, Talan Tunisie
